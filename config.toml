@@ -5,12 +5,12 @@ publishdir = "public"
 canonifyUrls = "true"
 disableKinds = ["RSS","taxonomy","taxonomyTerm"] # disable hugo's content that we don't need...
 
-title = "AWE.SOME - A Landing Page Template for Hugo" # page title -> see ./layouts/partials/head.html
+title = "Stupid Sexy Flanders - $SSF" # page title -> see ./layouts/partials/head.html
 
 googleAnalytics = "" # if needed...
 
 [author]
-    name = "AWE.SOME"
+    name = "Stupid Sexy Flanders - $SSF"
     email = "awe.some@example.com"
 
 [params]

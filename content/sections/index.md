@@ -1,5 +1,5 @@
 ---
-title: AWE.SOME
+title: Stupid Sexy Flanders - $SSF
 headless: true
 resources:
     - name: about

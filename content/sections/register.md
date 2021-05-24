@@ -1,5 +1,5 @@
 ---
-title: Registration
+title: Buy $SSF
 ---
 
-Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi.
+Stupid Sexy Flanders is a BEP20 token that can be bought using BNB at PancakeSwap
