@@ -1,5 +1,5 @@
 ---
-title: Most AWE.SOME Features
+title: $SSF Features
 afterTitle: ...and so much more!
 ---
 

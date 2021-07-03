@@ -5,16 +5,16 @@ publishdir = "public"
 canonifyUrls = "true"
 disableKinds = ["RSS","taxonomy","taxonomyTerm"] # disable hugo's content that we don't need...
 
-title = "Stupid Sexy Flanders - $SSF" # page title -> see ./layouts/partials/head.html
+title = "Stupid Sexy Flanders ($SSF) - Blockchain for the meme economy" # page title -> see ./layouts/partials/head.html
 
 googleAnalytics = "" # if needed...
 
 [author]
-    name = "Stupid Sexy Flanders - $SSF"
-    email = "awe.some@example.com"
+    name = "Stupid Sexy Flanders ($SSF) - Blockchain for the meme economy"
+    email = "stupidsexyflanders@gmail.com"
 
 [params]
-    description = "AWE.SOME - A Landing Page Template for Hugo" # page description -> see ./layouts/partials/head.html
+    description = "Blockchain for the meme economy" # page description -> see ./layouts/partials/head.html
     images = [] #add images here as "img/name.ext" (points to s./static/img/) to populate the default og and twitter <meta> attributes -> see ./layouts/partials/head.html
 
 # these items will be rendered 1. into a tooltip in the navbar and 2. into the footer - consider that there's limited space when adding more items -> see ./layouts/partials

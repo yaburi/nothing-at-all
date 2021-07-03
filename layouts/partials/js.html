@@ -11,22 +11,6 @@
         nav.classList.toggle('hidden');
     }
 
-    window.addEventListener('scroll', function() {
-
-        let btt = document.getElementById('btt');
-
-        if (window.scrollY >= 1080) {
-            btt.classList.remove('hidden');
-            btt.classList.add('block');
-        } else {
-            btt.classList.add('hidden');
-            btt.classList.remove('block');
-        }
-
-    });
-
-    console.log('Code/Design: ttntm.me'); // credit where credit is due
-
     const template = document.getElementById('followTip');
     const container = document.createElement('div');
 
